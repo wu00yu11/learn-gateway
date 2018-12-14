@@ -5,7 +5,7 @@ http://localhost:6604/userapi/user/users/10
 ## 通过服务直接访问
 http://localhost:6601/user/users/10
 ## 项目结构
-***
+>
 learn-gateway
 ├─.idea
 │  └─inspectionProfiles
@@ -64,4 +64,4 @@ learn-gateway
                     └─learn
                         └─example
                             └─gateway
-***
+>
